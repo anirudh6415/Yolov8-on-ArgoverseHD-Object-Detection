@@ -124,7 +124,7 @@ To visualize the YOLOv8 architecture and its anchor-free detection, we can refer
 
 ![yolov8](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/96ce1bf6-94cd-4d08-9641-22efc5b169bc)
 
-YOLOv8 Architecture, visualisation made by GitHub user @RangeKing
+YOLOv8 Architecture, visualisation made by GitHub user [@RangeKing] https://github.com/RangeKing
 
 
 By adopting anchor-free detection, YOLOv8 enhances object detection performance. In the following sections, we will evaluate the model's performance on the Argoversehd dataset and compare the results with the original dataset, highlighting the effectiveness of YOLOv8 for object detection tasks.
