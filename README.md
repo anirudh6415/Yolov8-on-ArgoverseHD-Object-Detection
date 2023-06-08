@@ -189,19 +189,15 @@ Below are the videos showcasing the testing results of the YOLOv8s and YOLOv8m m
 
 **TEST Video for YOLOv8**
 
-<!-- [![watch this video](https://img.youtube.com/vi/SeRUThVhlc4/0.jpg)](https://www.youtube.com/watch?v=SeRUThVhlc4) -->
-
-<a href="https://www.youtube.com/embed/SeRUThVhlc4" target="_blank">
- <img src="https://img.youtube.com/vi/SeRUThVhlc4/0.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+[![watch this video](https://img.youtube.com/vi/SeRUThVhlc4/0.jpg)](https://www.youtube.com/watch?v=SeRUThVhlc4) 
 
 **YOLOv8s Predicted Video:**
 
-[![watch this video](https://img.youtube.com/vi/SeRUThVhlc4/0.jpg)](https://www.youtube.com/watch?v=SeRUThVhlc4)
+[![watch this video](https://img.youtube.com/vi/NMq17lLEHEw/0.jpg)](https://www.youtube.com/watch?v=NMq17lLEHEw)
 
 **YOLOv8m Predicted Video:**
 
-[Embed or provide a link to the YOLOv8m test video]
+[![watch this video](https://img.youtube.com/vi/2_2clDwQSb0/0.jpg)](https://www.youtube.com/watch?v=2_2clDwQSb0)
 
 By visually examining the test videos, we can observe how the YOLOv8 models detect and classify objects in the Argoverse test dataset. The models' performance will be evident in their ability to accurately identify and localize objects of interest, such as people, bicycles, cars, motorcycles, buses, trucks, traffic lights, and stop signs.
 
