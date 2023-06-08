@@ -2,7 +2,7 @@
 we will dive deeper into the experimental setup, highlighting the key steps involved in training and evaluating the YOLOv8s and YOLOv8m models on the Argoversehd dataset. We will discuss the training process, including data preparation, model configuration of YOLOv8 in the context of object detection on the Argoversehd dataset.
 
 # Argoverse Dataset
-The Argoverse dataset, which forms the basis of our object detection experiment using YOLOv8 models, consists of a total of 66,954 images. The dataset is divided into three subsets: training, validation, and testing, with 39,384, 12,507, and 15,063 images, respectively. The training and validation subsets contain annotations in the COCO format, while the testing subset lacks ground truth annotations. In the absence of annotations, we will utilize the trained YOLOv8 models to predict and detect objects within the test images.
+The [Argoverse dataset](https://eval.ai/web/challenges/challenge-page/800/overview), which forms the basis of our object detection experiment using YOLOv8 models, consists of a total of 66,954 images. The dataset is divided into three subsets: training, validation, and testing, with 39,384, 12,507, and 15,063 images, respectively. The training and validation subsets contain annotations in the COCO format, while the testing subset lacks ground truth annotations. In the absence of annotations, we will utilize the trained YOLOv8 models to predict and detect objects within the test images.
 
 The Argoverse dataset encompasses eight classes of objects, namely: "person," "bicycle," "car," "motorcycle," "bus," "truck," "traffic_light," and "stop_sign." These classes represent common objects typically found in agricultural contexts.
 
@@ -124,7 +124,7 @@ To visualize the YOLOv8 architecture and its anchor-free detection, we can refer
 
 ![yolov8](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/96ce1bf6-94cd-4d08-9641-22efc5b169bc)
 
-YOLOv8 Architecture, visualisation made by GitHub user **Special thanks to** https://github.com/RangeKing
+YOLOv8 Architecture, visualisation made by GitHub user **Special thanks to [RangeKing](https://github.com/RangeKing)**
 
 
 By adopting anchor-free detection, YOLOv8 enhances object detection performance. In the following sections, we will evaluate the model's performance on the Argoversehd dataset and compare the results with the original dataset, highlighting the effectiveness of YOLOv8 for object detection tasks.
