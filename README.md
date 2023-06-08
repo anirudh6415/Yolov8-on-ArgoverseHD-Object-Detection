@@ -187,7 +187,7 @@ Firstly, the test data for Argoverse consists of individual images. To provide a
 
 Below are the videos showcasing the testing results of the YOLOv8s and YOLOv8m models on the test data:
 **TEST Video for YOLOv8**
-[![IMAGE ALT TEXT HERE](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/c7b376a2-8c89-45db-af93-3274e78eb66a)](https://youtu.be/SeRUThVhlc4)
+[![IMAGE ALT TEXT HERE](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/c7b376a2-8c89-45db-af93-3274e78eb66a)](https://www.youtube.com/watch?v=SeRUThVhlc4)
 
 ![medium](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/1ad408d5-53df-48a7-a3a1-80ed9a7584c2)
 ![test](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/c7b376a2-8c89-45db-af93-3274e78eb66a)
