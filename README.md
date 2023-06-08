@@ -120,6 +120,7 @@ This anchor-free approach brings several advantages. Firstly, it simplifies the 
 
 ![Anchor-free](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/88d6dfbf-faf2-4255-bb0e-1dd4908e4eb3)
 [Source of the image](https://www.nature.com/articles/s41598-021-02095-4)
+
 To visualize the YOLOv8 architecture and its anchor-free detection, we can refer to a detailed diagram created by GitHub user RangeKing (shown below). The diagram provides a comprehensive overview of the network's structure and the flow of information through different layers.
 
 ![yolov8](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/96ce1bf6-94cd-4d08-9641-22efc5b169bc)
