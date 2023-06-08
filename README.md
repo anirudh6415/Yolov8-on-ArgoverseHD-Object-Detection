@@ -191,13 +191,15 @@ Below are the videos showcasing the testing results of the YOLOv8s and YOLOv8m m
 
 [![watch this video](https://img.youtube.com/vi/SeRUThVhlc4/0.jpg)](https://www.youtube.com/watch?v=SeRUThVhlc4)
 
-![medium](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/1ad408d5-53df-48a7-a3a1-80ed9a7584c2)
-![test](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/c7b376a2-8c89-45db-af93-3274e78eb66a)
-![small](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/f5e7bf7c-93d1-4577-88e3-00d9be2596fd)
+<iframe width="1002" height="626" src="https://www.youtube.com/embed/SeRUThVhlc4" title="Test Video for testing YoloV8 model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/embed/SeRUThVhlc4" target="_blank">
+ <img src="https://img.youtube.com/vi/SeRUThVhlc4/5.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 **YOLOv8s Predicted Video:**
 
-[Embed or provide a link to the YOLOv8s test video]
+[![watch this video](https://img.youtube.com/vi/SeRUThVhlc4/0.jpg)](https://www.youtube.com/watch?v=SeRUThVhlc4)
 
 **YOLOv8m Predicted Video:**
 
