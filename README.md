@@ -189,9 +189,7 @@ Below are the videos showcasing the testing results of the YOLOv8s and YOLOv8m m
 
 **TEST Video for YOLOv8**
 
-[![watch this video](https://img.youtube.com/vi/SeRUThVhlc4/0.jpg)](https://www.youtube.com/watch?v=SeRUThVhlc4)
-
-<iframe width="1002" height="626" src="https://www.youtube.com/embed/SeRUThVhlc4" title="Test Video for testing YoloV8 model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- [![watch this video](https://img.youtube.com/vi/SeRUThVhlc4/0.jpg)](https://www.youtube.com/watch?v=SeRUThVhlc4) -->
 
 <a href="https://www.youtube.com/embed/SeRUThVhlc4" target="_blank">
  <img src="https://img.youtube.com/vi/SeRUThVhlc4/5.jpg" alt="Watch the video" width="240" height="180" border="10" />
