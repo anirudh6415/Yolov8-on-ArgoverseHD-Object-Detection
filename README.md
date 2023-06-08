@@ -187,8 +187,8 @@ Firstly, the test data for Argoverse consists of individual images. To provide a
 
 Below are the videos showcasing the testing results of the YOLOv8s and YOLOv8m models on the test data:
 **TEST Video for YOLOv8**
-
-<iframe width="1002" height="626" src="https://www.youtube.com/embed/SeRUThVhlc4?list=PLQ-EzDs4JvXtswWWE277RuAu3MwaaYZz9" title="Test Video for testing YoloV8 model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/SeRUThVhlc4?list=PLQ-EzDs4JvXtswWWE277RuAu3MwaaYZz9)
+<!-- <iframe width="1002" height="626" src="https://www.youtube.com/embed/SeRUThVhlc4?list=PLQ-EzDs4JvXtswWWE277RuAu3MwaaYZz9" title="Test Video for testing YoloV8 model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 **YOLOv8s Predicted Video:**
 
