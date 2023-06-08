@@ -209,14 +209,24 @@ The models will output bounding boxes around the detected objects, along with th
 
 After testing the YOLOv8 models on the Argoversehd dataset and evaluating the results, it is important to conduct a thorough analysis to gain insights into the performance of the models. This analysis involves both visual inspection and the use of quantitative metrics to assess the models' effectiveness in object detection tasks.
 
-Visual Inspection:
+![labels](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/f2aa31da-85fc-4dd5-a7ba-05a30edd3f84)
+
+## Visual Inspection:
 Upon visually inspecting the test results, it becomes evident that the YOLOv8 models show promising performance in detecting and localizing objects. However, there are areas where the models exhibit limitations. For example, the models incorrectly identify certain objects as trucks and miss some instances of stop signs. These observations suggest that further improvements can be made by refining the training process and incorporating additional data.
 
-Quantitative Metrics:
+![results](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/2749b80a-08cb-4c06-a6e2-ce98fa231ac5)
+
+## Quantitative Metrics:
 The mean Average Precision (mAP) is a widely used metric for evaluating object detection models. The mAP measures the accuracy of object localization and classification. In the case of the YOLOv8 models trained on the Argoversehd dataset, the highest achieved mAP is 0.40, indicating good performance for certain instances. However, the average mAP typically falls within the range of 0.24 to 0.35. This implies that there is room for improvement in terms of the models' overall accuracy and precision.
 
-Confusion Matrix:
+![F1_curve](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/9cc3ff5b-3e02-47f8-b1fc-0637864d729a)
+
+![PR_curve](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/b14270d6-0c88-420e-a536-a520e3e2a922)
+
+## Confusion Matrix:
 A confusion matrix provides a detailed breakdown of the model's performance across different object classes. By analyzing the confusion matrix, we can identify specific areas where the YOLOv8 models excel and areas where they struggle. In the case of the Argoversehd dataset, the YOLO models face challenges in accurately detecting small objects and occasionally misclassifying certain objects. To address these limitations, it is advisable to consider strategies such as increasing the amount of training data and conducting further model optimization.
 
-Improving Model Performance:
+![confusion_matrix](https://github.com/anirudh6415/Yolov8-on-ArgoverseHD-Object-Detection-/assets/46961684/3c3ef244-fb6c-4874-8faa-399cfa12d071)
+
+## Improving Model Performance:
 Based on the analysis of the test results, it is clear that there is room for improvement in the YOLOv8 models' performance on the Argoversehd dataset. By implementing different strategies and iteratively training and evaluating the YOLOv8 models, it is possible to improve their object detection accuracy and address the specific challenges observed during testing on the Argoversehd dataset.
