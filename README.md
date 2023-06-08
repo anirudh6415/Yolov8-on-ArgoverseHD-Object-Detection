@@ -41,7 +41,7 @@ class_id x_center y_center width height
 ...
 
 Here is a sneak peek of the code used to convert the annotations to the YOLO format:
-
+```python
 def convert_annotations_to_yolo_format(data, file_names, output_path):
     def get_img(filename):
         for img in data['images']:
@@ -105,7 +105,7 @@ def convert_annotations_to_yolo_format(data, file_names, output_path):
 
         file_object.close()
         count += 1
-
+```
 After the conversion, the labels are saved as individual text files in the "labels" folder, corresponding to each image.
 
 With the dataset now prepared in the YOLOv8 format, we can proceed to train and evaluate the YOLOv8s and YOLOv8m models on the Argoverse dataset.
