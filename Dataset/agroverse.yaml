@@ -1,0 +1,7 @@
+path:  /scratch/akaniyar/argoversehd1/images/
+train: /scratch/akaniyar/argoversehd1/images/train/images/
+val: /scratch/akaniyar/argoversehd1/images/val/images/
+
+nc: 8
+
+names: ["person","bicycle", "car","motorcycle", "bus", "truck", "traffic_light","stop_sign"]
