@@ -1,5 +1,5 @@
 # Yolov8-on-ArgoverseHD-Object-Detection-
-we will dive deeper into the experimental setup, highlighting the key steps involved in training and evaluating the YOLOv8s and YOLOv8m models on the Argoversehd dataset. We will discuss the training process, including data preparation, model configuration of YOLOv8 in the context of object detection on the Argoversehd dataset.
+we will dive deeper into the experimental setup, highlighting the key steps involved in training and evaluating the YOLOv8s and YOLOv8m models on the Argoversehd dataset. We will discuss the training process, including data preparation, model configuration of YOLOv8 in the context of object detection on the Argoversehd dataset.[^1]
 
 # Argoverse Dataset
 The [Argoverse dataset](https://eval.ai/web/challenges/challenge-page/800/overview), which forms the basis of our object detection experiment using YOLOv8 models, consists of a total of 66,954 images. The dataset is divided into three subsets: training, validation, and testing, with 39,384, 12,507, and 15,063 images, respectively. The training and validation subsets contain annotations in the COCO format, while the testing subset lacks ground truth annotations. In the absence of annotations, we will utilize the trained YOLOv8 models to predict and detect objects within the test images.
@@ -235,3 +235,6 @@ A confusion matrix provides a detailed breakdown of the model's performance acro
 
 ## Improving Model Performance:
 Based on the analysis of the test results, it is clear that there is room for improvement in the YOLOv8 models' performance on the Argoversehd dataset. By implementing different strategies and iteratively training and evaluating the YOLOv8 models, it is possible to improve their object detection accuracy and address the specific challenges observed during testing on the Argoversehd dataset.
+
+***Foot Note :***
+[^1]: ***Beginner’s Work and Request for Understanding*** - *Please note that this blog and the work presented herein are the efforts of a beginner in the field of image processing. While every attempt has been made to ensure accuracy and provide valuable insights, there may be certain limitations or areas for improvement. If any inconveniences or shortcomings are encountered, I kindly request your understanding and forgiveness. This blog serves as a starting point for exploring the fascinating world of Image processing and computer vision, and I am eager to learn and grow from this experience. Your feedback and suggestions are greatly appreciated as they will contribute to my growth as a learner and researcher. Thank you for your support and understanding.*
